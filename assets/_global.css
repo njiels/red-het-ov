@@ -1,0 +1,20 @@
+/* import '@formkit/themes/genesis' */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: BebasNeuePro, 'sans-serif';
+    font-weight: 400;
+    src: url('~assets/fonts/BebasNeuePro-Bold.ttf') format('woff');
+}
+
+@font-face {
+    font-family: BebasNeueProExp, 'sans-serif';
+    font-weight: 400;
+    src: url('~assets/fonts/BebasNeuePro-Book.ttf') format('woff');
+}
+
+body{
+    font-family: 'BebasNeuePro';
+}
