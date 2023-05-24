@@ -28,10 +28,15 @@
     transform: skewY(-5deg);
     box-shadow: #0E1D46 5px 5px;
     line-height: .9em;
+    margin-bottom: 2em;
   }
   .ov-button:hover{
     transition: all .5s;
     padding: .5em;
   }
-  
+  @media (max-width: 767px){
+    .ov-button{
+      font-size: 3em;
+    }
+  }
   </style>

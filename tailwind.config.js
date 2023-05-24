@@ -3,8 +3,8 @@ module.exports = {
   content: [],
   theme: {
     fontFamily: {
-      primary: ['BebasNeuePro-Bold'],
-      secondary: ['BebasNeuePro-Book']
+      primary: ['BebasNeuePro'],
+      secondary: ['BebasNeueProExp']
     },
     extend: {},
   },

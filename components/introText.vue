@@ -1,8 +1,8 @@
 <template>
     <article class="font-secondary text text-center max-w-3xl m-5 my-10">
-      <p>DE GVB IS VAN PLAN OM METROLIJN <strong>M53</strong> EN <strong>TRAM 19 </strong>TE SCHRAPPEN!</p>
+      <p>DE GVB IS VAN PLAN OM METROLIJN <strong>M53</strong> EN <strong>TRAM 3 EN 19 </strong>TE SCHRAPPEN!</p>
       <p>DE VERVANGENDE LIJNEN ZULLEN ZORGEN VOOR <strong>LANGERE REISTIJDEN</strong> EN <strong>VAKER OVERSTAPPEN</strong> VOOR 36000 AMSTERDAMMERS.</p>
-      <p>WIJ ZEGGEN: <span><strong>BEHOUD TRAM 19 EN M53</strong></span></p>
+      <p>WIJ ZEGGEN: <span><strong>BEHOUD DE TRAMS EN M53</strong></span></p>
     </article>
   </template>
   

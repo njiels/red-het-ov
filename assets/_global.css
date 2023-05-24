@@ -4,17 +4,26 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: BebasNeuePro, 'sans-serif';
+    font-family: BebasNeuePro;
+    font-style: normal;
     font-weight: 400;
-    src: url('~assets/fonts/BebasNeuePro-Bold.ttf') format('woff');
+    src: local('BebasNeuePro Bold'), local('BebasNeuePro-Bold'), url('~/assets/fonts/BebasNeuePro-Bold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: BebasNeueProExp, 'sans-serif';
+    font-family: BebasNeueProExp;
     font-weight: 400;
-    src: url('~assets/fonts/BebasNeuePro-Book.ttf') format('woff');
+    src: url('~/assets/fonts/BebasNeuePro-Book.ttf') format('truetype');
 }
 
-body{
-    font-family: 'BebasNeuePro';
+/* body{
+    font-family: 'BebasNeueProExp', sans-serif;
+}
+
+h1, h2, em, strong{
+    font-family: 'BebasNeuePro', sans-serif;
+} */
+
+strong{
+    font-weight: 400;
 }
